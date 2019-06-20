@@ -1,0 +1,12 @@
+packt.txt
+Created Thu Jun 20 10:46:34 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Packt books
+
+
+Links
+=====
+Packt
+https://www.packtpub.com/
