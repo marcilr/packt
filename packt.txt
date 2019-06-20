@@ -6,6 +6,9 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 Packt books
 
 
+Plenty of selenium books
+
+
 Links
 =====
 Packt
