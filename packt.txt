@@ -6,10 +6,45 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 Packt books
 
 
+Did you know that Packt offers eBook versions of every book
+published, with PDF and ePub files available?  You can upgrade
+to the eBook version at www.PacktPub.com and as a print book
+customer, you are entitled to a discount on the eBook copy.
+Get in touch with us at service@packtpub.com for more details.
+--packtpub.com/
+
+
+PacktLib
+========
+Do you need instant solutions to your IT questions?  PacktLib
+is Packt's online digital book library. Here, you can search,
+access, and read Packt's entire library of books.
+
+Why subscribe?
+• Fully searchable across every book published by Packt
+• Copy and paste, print, and bookmark content
+• On demand and accessible via a web browser
+
+Free access for Packt account holders
+If you have an account with Packt at www.PacktPub.com,
+you can use this to access PacktLib today and view 9
+entirely free books.  Simply use your login credentials
+for immediate access.
+
+
+
 Plenty of selenium books
+
+
 
 
 Links
 =====
 Packt
 https://www.packtpub.com/
+
+PacktLib
+Do you need instant solutions to your IT questions?  PacktLib 
+is Packt's online digital book library. Here, you can search, 
+access, and read Packt's entire library of books.
+https://www2.packtpub.com/books/subscription/packtlib
