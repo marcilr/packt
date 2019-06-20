@@ -6,6 +6,17 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 Packt related links
 
 
+What you get with a Packt subscription
+o Instant access to over 7,000 titles
+o Contantly refreshed with 100+ new titles a month
+o Over 1000+ technologies including Angular, AWS,
+  Blockchain, C#, C++, Machine Learning, React & Python
+o Programming challenges and assessments
+o Offline learning with our mobile app
+o Simple pricing, no contract
+o You will not be charged until your free trial ends
+
+
 Links
 =====
 Packt
@@ -17,3 +28,9 @@ is Packt's online digital book library. Here, you can search,
 access, and read Packt's entire library of books.
 https://www2.packtpub.com/books/subscription/packtlib
 
+Skill Up with Packt
+Access over 7,000 practical books and videos with a Packt 
+subscription – the online tech library for developers
+Start your 10-day FREE trial
+Renews at just $9.99 a month after trial
+https://subscribe.packtpub.com/
