@@ -1,0 +1,19 @@
+links.txt
+Created Thu Jun 20 10:58:43 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Packt related links
+
+
+Links
+=====
+Packt
+https://www.packtpub.com/
+
+PacktLib
+Do you need instant solutions to your IT questions?  PacktLib 
+is Packt's online digital book library. Here, you can search, 
+access, and read Packt's entire library of books.
+https://www2.packtpub.com/books/subscription/packtlib
+
